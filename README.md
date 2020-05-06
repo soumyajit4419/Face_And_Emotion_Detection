@@ -32,7 +32,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 ### For  Face Detection, and Emotion Detection Code
 
-Refer to the notebook /Emotion_Detection.ipynb
+Refer to the notebook /Emotion_Detection.ipynb.<br/>
 I have trained an emotion detection model and put its trained weights at /Models
 
 ### Train your Emotion Detection Model
