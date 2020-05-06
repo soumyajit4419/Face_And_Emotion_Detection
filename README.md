@@ -1,5 +1,7 @@
 # Facial Recognition and Emotion Detection
-___________
+----------
+ <img src="./Test_Images/demo.jpeg" alt="index1"/>
+----------
 
 ### Emotion Detection
 
